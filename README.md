@@ -1,9 +1,18 @@
 <div align="center">
   
-  ### Minsol
+  ### Hello, I'm Minsol Kim😊
 <img align="right" width="70" src="https://github.com/user-attachments/assets/fe4345f6-861e-4a57-b2b7-ed33a047e766" />
 
-  <a href="https://velog.io/@minsol/posts"><img src="https://img.shields.io/badge/minsol.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> <a href="https://github.com/soli-ziyo/soli-ziyo"><img src="https://img.shields.io/badge/ReadMe-735998?style=badge&logo=GitHub&logoColor=white"/></a> 
+</a><a href="https://velog.io/@minsol/posts"><img src="https://img.shields.io/badge/minsol.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> <a href="https://github.com/soli-ziyo/soli-ziyo"><img src="https://img.shields.io/badge/ReadMe-735998?style=badge&logo=GitHub&logoColor=white"/></a> 
+<a href="https://www.linkedin.com/in/vivi-kim">
+  <img src="https://img.shields.io/badge/-LinkedIn-92a8d1?logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/vivi-kim" alt="LinkedIn Badge">
+<a href="mailto:iamsol0128@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-92a8d1?logo=Gmail&logoColor=white&link=https://www.linkedin.com/in/vivi-kim" alt="LinkedIn Badge">
+</br>
+</a>
+<a href="https://hits.seeyoufarm.com">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/soli-ziyo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%234A6A8B&title=🖐️hits&edge_flat=false" alt="Hits Badge">
+  
   ---
 
 </div>
@@ -33,7 +42,12 @@ Here are some ideas to get you started:
       <br />
       <img src="https://img.shields.io/badge/Java-f44236.svg?style=for-the-badge&logo=coffeescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-      <h4>🍀AI🍀</h4>
+   <br />
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
+<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
+
+<h4>🍀AI🍀</h4>
       <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
       <br />
@@ -54,6 +68,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+
 </div>
 
 <h3>📫 Contact 📫</h3>
