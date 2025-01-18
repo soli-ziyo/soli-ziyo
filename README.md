@@ -6,18 +6,11 @@
 <br>
 <div align="left">
 <h3>📞contact😶‍🌫️</h3>
+
 <div align="left" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://velog.io/@minsol/posts" target="_blank" style="cursor: pointer; text-decoration: none;">
-    <img src="https://img.shields.io/badge/Velog-%230077B5?style=badge&logo=Velog&logoColor=white" alt="minsol.log Badge">
-  </a> 
-
-  <a href="https://github.com/soli-ziyo/soli-ziyo" target="_blank" style="cursor: pointer; text-decoration: none;">
-    <img src="https://img.shields.io/badge/Github-%23000000?style=badge&logo=GitHub&logoColor=white" alt="GitHub Badge">
-  </a> 
-
-  <a href="mailto:iamsol0128@gmail.com" target="_blank" style="cursor: pointer; text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Gmail-%23D93025?logo=Gmail&logoColor=white" alt="Gmail Badge">
-  </a> 
+  <a href="https://velog.io/@minsol/posts"><img src="https://img.shields.io/badge/Velog-%230077B5?style=badge&logo=Velog&logoColor=white" alt="minsol.log Badge"></a> 
+  <a href="https://github.com/soli-ziyo/soli-ziyo"><img src="https://img.shields.io/badge/Github-%23000000?style=badge&logo=GitHub&logoColor=white" alt="GitHub Badge"></a>
+  <a href="mailto:iamsol0128@gmail.com" target="_blank" style="cursor: pointer; text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-%23D93025?logo=Gmail&logoColor=white" alt="Gmail Badge"></a> 
 
   <a href="https://hits.seeyoufarm.com" target="_blank" style="cursor: pointer; text-decoration: none;">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/soli-ziyo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%234A6A8B&title=🖐️hits&edge_flat=false" alt="Hits Badge">
