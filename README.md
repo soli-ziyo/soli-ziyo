@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### Hello, I'm Minsol Kim😊
+  ## Hello, I'm Minsol Kim😊
 
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
@@ -88,20 +88,21 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soli-ziyo&layout=compact&hide=javascript&theme=vue" alt="Top Langs" style="display: inline-block; margin-right: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=soli-ziyo&hide=contribs,prs&show_icons=true&theme=vue" alt="GitHub Stats" style="display: inline-block;" />
 
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+<div style="text-align: center;">
   <!-- Left Section: GitAnimals Line -->
-  <div style="flex: 1; text-align: left;">
+  <div style="display: inline-block; margin-right: 10px;">
     <a href="https://github.com/devxb/gitanimals" style="display: inline-block; margin-bottom: 10px;">
       <img src="https://render.gitanimals.org/lines/soli-ziyo?pet-id=1" width="600" height="300" />
     </a>
   </div>
 
   <!-- Right Section: GitAnimals Farm -->
-  <div style="flex: 1; text-align: left;">
+  <div style="display: inline-block;">
     <a href="https://github.com/devxb/gitanimals" style="display: inline-block; margin-bottom: 10px;">
       <img src="https://render.gitanimals.org/farms/soli-ziyo" width="600" height="300" />
     </a>
   </div>
 </div>
+
+
 
