@@ -4,6 +4,7 @@
   ## Hello, I'm Minsol Kim😊
   <img align="right" width="150" src="https://github.com/user-attachments/assets/5c331f61-d8b2-4489-b810-b8bce3bfa8d5" />
 <br>
+<div align="left">
 <h3>📞contact😶‍🌫️</h3>
 <div align="left" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://velog.io/@minsol/posts" target="_blank" style="cursor: pointer; text-decoration: none;">
