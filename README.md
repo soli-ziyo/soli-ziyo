@@ -105,7 +105,7 @@ Here are some ideas to get you started:
       src="https://img.shields.io/badge/solac@ewha.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soli-ziyo&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soli-ziyo)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soli-ziyo&hide=contribs,prs&show_icons=true&theme=vue)
 
 </div>
