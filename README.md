@@ -21,25 +21,7 @@ Here are some ideas to get you started:
 </div>
 
 <!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<img src="https://capsule-render.vercel.app/api?type=Venom&color=0:fc575e,100:90d5ec&height=300&section=header&text=Welcome%20to%20Jimin's%20GitHub&fontSize=40&animation=fadeIn&desc=dreaming%20of%20becoming%20a%20backend%20developer." />
 
-
-<div>
-  <h3><img src="https://github.com/user-attachments/assets/7475036b-75ce-40ea-8f18-eaef561ed762" width="15px" />
-Tech Stack</h3>
-</div>
-
-
-<div>
-      <h4>[Backend]</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-      <br />
-      <img src="https://img.shields.io/badge/Java-f44236.svg?style=for-the-badge&logo=coffeescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-  
-</div>
 
 <a href="https://github.com/devxb/gitanimals">
   <a href="https://github.com/devxb/gitanimals">
@@ -53,6 +35,12 @@ Tech Stack</h3>
 />
 </a>
 
+<h3 align="center">✨ Tech Stack ✨</h3>
+      <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+      <br />
+      <img src="https://img.shields.io/badge/Java-f44236.svg?style=for-the-badge&logo=coffeescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
