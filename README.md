@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  ### Hello, I'm Minsol Kim😊
+  ## Hello, I'm Minsol Kim😊
   <img align="right" width="150" src="https://github.com/user-attachments/assets/5c331f61-d8b2-4489-b810-b8bce3bfa8d5" />
 <br>
 
