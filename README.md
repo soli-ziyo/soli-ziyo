@@ -1,10 +1,9 @@
 <div align="center">
   
   ### Minsol
-<img align="right" width="70" src="https://github.com/user-attachments/assets/527b96ce-9f3d-49c0-9841-d615e8063387" />
+<img align="right" width="70" src="https://github.com/user-attachments/assets/fe4345f6-861e-4a57-b2b7-ed33a047e766" />
 
-
-  <a href="https://velog.io/@minsol/posts"><img src="https://img.shields.io/badge/minsol.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> <a href="https://www.notion.so/solac/93ef06622f4f426295a88d3a0cfd1125"><img src="https://img.shields.io/badge/ReadMe-735998?style=badge&logo=GitHub&logoColor=white"/></a> 
+  <a href="https://velog.io/@minsol/posts"><img src="https://img.shields.io/badge/minsol.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> <a href="https://github.com/soli-ziyo/soli-ziyo"><img src="https://img.shields.io/badge/ReadMe-735998?style=badge&logo=GitHub&logoColor=white"/></a> 
   ---
 
 </div>
@@ -24,11 +23,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!--타이틀 부분-->
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
 
 <!--내용 부분-->
 <h3>👩‍💻Tech Stack👩‍💻</h3>
