@@ -2,24 +2,26 @@
   
   ### Hello, I'm Minsol Kim😊
 
-<div align="center">
 
-  <a href="https://velog.io/@minsol/posts">
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <div style="cursor: pointer;" onclick="window.open('https://velog.io/@minsol/posts', '_blank')">
     <img src="https://img.shields.io/badge/Velog-%230077B5?style=badge&logo=Velog&logoColor=white" alt="minsol.log Badge">
-  </a> 
+  </div> 
 
-  <a href="https://github.com/soli-ziyo/soli-ziyo">
+  <div style="cursor: pointer;" onclick="window.open('https://github.com/soli-ziyo/soli-ziyo', '_blank')">
     <img src="https://img.shields.io/badge/Github-%23000000?style=badge&logo=GitHub&logoColor=white" alt="GitHub Badge">
-  </a> 
+  </div> 
 
-  <a href="mailto:iamsol0128@gmail.com">
+  <div style="cursor: pointer;" onclick="window.open('mailto:iamsol0128@gmail.com', '_blank')">
     <img src="https://img.shields.io/badge/-Gmail-%23D93025?logo=Gmail&logoColor=white" alt="Gmail Badge">
-  </a> 
+  </div> 
 
-  <a href="https://hits.seeyoufarm.com">
+  <div style="cursor: pointer;" onclick="window.open('https://hits.seeyoufarm.com', '_blank')">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/soli-ziyo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%234A6A8B&title=🖐️hits&edge_flat=false" alt="Hits Badge">
-  </a>
+  </div>
 </div>
+
+
 
 
   ---
@@ -87,13 +89,19 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=soli-ziyo&hide=contribs,prs&show_icons=true&theme=vue" alt="GitHub Stats" style="display: inline-block;" />
 
 
-<!-- GitAnimals Line -->
-  <a href="https://github.com/devxb/gitanimals" style="display: inline-block; margin-right: 10px;">
-    <img src="https://render.gitanimals.org/lines/soli-ziyo?pet-id=1" width="600" height="300" />
-  </a>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <!-- Left Section: GitAnimals Line -->
+  <div style="flex: 1; text-align: left;">
+    <a href="https://github.com/devxb/gitanimals" style="display: inline-block; margin-bottom: 10px;">
+      <img src="https://render.gitanimals.org/lines/soli-ziyo?pet-id=1" width="600" height="300" />
+    </a>
+  </div>
 
-  <!-- GitAnimals Farm -->
-  <a href="https://github.com/devxb/gitanimals" style="display: inline-block;">
-    <img src="https://render.gitanimals.org/farms/soli-ziyo" width="600" height="300" />
-  </a>
+  <!-- Right Section: GitAnimals Farm -->
+  <div style="flex: 1; text-align: left;">
+    <a href="https://github.com/devxb/gitanimals" style="display: inline-block; margin-bottom: 10px;">
+      <img src="https://render.gitanimals.org/farms/soli-ziyo" width="600" height="300" />
+    </a>
+  </div>
 </div>
+
