@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   <a href="https://velog.io/@minsol/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-<a href="mailto:solac@ewha.ac.kr" style="text-transform: lowercase;">
+<a href="mailto:solac@ewha.ac.kr" style="text-transform: lowercase; text-decoration: none;">
     <img src="https://img.shields.io/badge/solac@ewha.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
 </a>
 
