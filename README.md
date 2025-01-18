@@ -1,24 +1,22 @@
 <div align="center">
   
-  ## Hello, I'm Minsol Kim😊
-
-
+  ### Hello, I'm Minsol Kim😊
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <div style="cursor: pointer;" onclick="window.open('https://velog.io/@minsol/posts', '_blank')">
+  <a href="https://velog.io/@minsol/posts" target="_blank" style="cursor: pointer; text-decoration: none;">
     <img src="https://img.shields.io/badge/Velog-%230077B5?style=badge&logo=Velog&logoColor=white" alt="minsol.log Badge">
-  </div> 
+  </a> 
 
-  <div style="cursor: pointer;" onclick="window.open('https://github.com/soli-ziyo/soli-ziyo', '_blank')">
+  <a href="https://github.com/soli-ziyo/soli-ziyo" target="_blank" style="cursor: pointer; text-decoration: none;">
     <img src="https://img.shields.io/badge/Github-%23000000?style=badge&logo=GitHub&logoColor=white" alt="GitHub Badge">
-  </div> 
+  </a> 
 
-  <div style="cursor: pointer;" onclick="window.open('mailto:iamsol0128@gmail.com', '_blank')">
+  <a href="mailto:iamsol0128@gmail.com" target="_blank" style="cursor: pointer; text-decoration: none;">
     <img src="https://img.shields.io/badge/-Gmail-%23D93025?logo=Gmail&logoColor=white" alt="Gmail Badge">
-  </div> 
+  </a> 
 
-  <div style="cursor: pointer;" onclick="window.open('https://hits.seeyoufarm.com', '_blank')">
+  <a href="https://hits.seeyoufarm.com" target="_blank" style="cursor: pointer; text-decoration: none;">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/soli-ziyo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%234A6A8B&title=🖐️hits&edge_flat=false" alt="Hits Badge">
-  </div>
+  </a>
 </div>
 
 
