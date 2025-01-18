@@ -1,8 +1,8 @@
 
 <div align="center">
-  
+
   ## Hello, I'm Minsol Kim😊
-  <img align="right" width="150" src="https://github.com/user-attachments/assets/5c331f61-d8b2-4489-b810-b8bce3bfa8d5" />
+  <img align="right" width="150" src="https://github.com/user-attachments/assets/cee6938b-d1d8-470a-a68f-7df450c3e565" />
 <br>
 <div align="left">
 <h3>📞contact😶‍🌫️</h3>
@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 -->
 
 <!--내용 부분-->
+<div align="left">
 <h3>👩‍💻Tech Stack👩‍💻</h3>
 <div>
   <h4>🌟Backend🌟</h4> 
