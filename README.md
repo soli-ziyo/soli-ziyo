@@ -1,10 +1,10 @@
 <div align="center">
   
   ### Minsol
-  
-  <img align="right" width="23" src="https://github.com/seondal/seondal/assets/75469131/f3735e2a-2fb1-4e7f-bbea-81f5698213b0" />
+<img align="right" width="70" src="https://github.com/user-attachments/assets/527b96ce-9f3d-49c0-9841-d615e8063387" />
 
-  <a href="https://velog.io/@seondal/series"><img src="https://img.shields.io/badge/seondal.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> <a href="https://whkakrkr.tistory.com"><img src="https://img.shields.io/badge/Seondalgorithm-E5511E?style=badge&logo=Tistory&logoColor=white"/></a> <a href="https://seondal.notion.site/fd0c2a204d8e4fd7b193800c20d5eda0?v=c62e2af146ed446a97b34c86c16d4835&pvs=4"><img src="https://img.shields.io/badge/ReadMe-735998?style=badge&logo=GitHub&logoColor=white"/></a> 
+
+  <a href="https://velog.io/@minsol/posts"><img src="https://img.shields.io/badge/minsol.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> <a href="https://www.notion.so/solac/93ef06622f4f426295a88d3a0cfd1125"><img src="https://img.shields.io/badge/ReadMe-735998?style=badge&logo=GitHub&logoColor=white"/></a> 
   ---
 
 </div>
