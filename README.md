@@ -1,11 +1,11 @@
 <div align="center">
   
   ### Hello, I'm Minsol Kim😊
-<img align="right" width="70" src="https://github.com/user-attachments/assets/fe4345f6-861e-4a57-b2b7-ed33a047e766" />
 
 <div align="center">
+
   <a href="https://velog.io/@minsol/posts">
-    <img src="https://img.shields.io/badge/minsol.log-%230077B5?style=badge&logo=Velog&logoColor=white" alt="minsol.log Badge">
+    <img src="https://img.shields.io/badge/Velog-%230077B5?style=badge&logo=Velog&logoColor=white" alt="minsol.log Badge">
   </a> 
 
   <a href="https://github.com/soli-ziyo/soli-ziyo">
@@ -21,7 +21,7 @@
   </a>
 </div>
 
-  
+
   ---
 
 </div>
@@ -87,14 +87,13 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=soli-ziyo&hide=contribs,prs&show_icons=true&theme=vue" alt="GitHub Stats" style="display: inline-block;" />
 
 
-<a href="https://github.com/devxb/gitanimals">
-  <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/soli-ziyo?pet-id=1" width="600"
-  height="300"/>
-</a>
-<img
-  src="https://render.gitanimals.org/farms/soli-ziyo"
-  width="600"
-  height="300"
-/>
-</a>
+<!-- GitAnimals Line -->
+  <a href="https://github.com/devxb/gitanimals" style="display: inline-block; margin-right: 10px;">
+    <img src="https://render.gitanimals.org/lines/soli-ziyo?pet-id=1" width="600" height="300" />
+  </a>
+
+  <!-- GitAnimals Farm -->
+  <a href="https://github.com/devxb/gitanimals" style="display: inline-block;">
+    <img src="https://render.gitanimals.org/farms/soli-ziyo" width="600" height="300" />
+  </a>
+</div>
