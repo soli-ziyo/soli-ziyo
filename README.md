@@ -1,8 +1,11 @@
 
+<div align="center">
+  
   ### Hello, I'm Minsol Kim😊
-  <img align="right" width="100" src="https://github.com/user-attachments/assets/5c331f61-d8b2-4489-b810-b8bce3bfa8d5" />
+  <img align="right" width="150" src="https://github.com/user-attachments/assets/5c331f61-d8b2-4489-b810-b8bce3bfa8d5" />
 <br>
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+
+<div align="left" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://velog.io/@minsol/posts" target="_blank" style="cursor: pointer; text-decoration: none;">
     <img src="https://img.shields.io/badge/Velog-%230077B5?style=badge&logo=Velog&logoColor=white" alt="minsol.log Badge">
   </a> 
@@ -19,7 +22,6 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/soli-ziyo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%234A6A8B&title=🖐️hits&edge_flat=false" alt="Hits Badge">
   </a>
 </div>
-
 
 
 
