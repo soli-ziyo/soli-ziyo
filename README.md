@@ -106,9 +106,18 @@ Here are some ideas to get you started:
   </a>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soli-ziyo&layout=compact&hide=javascript&theme=vue" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=soli-ziyo&hide=contribs,prs&show_icons=true&theme=vue" alt="GitHub Stats" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soli-ziyo&layout=compact&hide=javascript&theme=vue" alt="Top Langs" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=soli-ziyo&hide=contribs,prs&show_icons=true&theme=vue" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 </div>
