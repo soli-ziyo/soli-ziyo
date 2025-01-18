@@ -45,6 +45,10 @@ Tech Stack</h3>
 <br />
 
 <a href="https://github.com/devxb/gitanimals">
+  <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/soli-ziyo?pet-id=1" width="600"
+  height="300"/>
+</a>
 <img
   src="https://render.gitanimals.org/farms/jiminnimij"
   width="600"
