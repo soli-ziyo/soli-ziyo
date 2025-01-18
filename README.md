@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 -->
 
 <!--내용 부분-->
-<div align="left">
+<div align="center">
 <h3>👩‍💻Tech Stack👩‍💻</h3>
 <div>
   <h4>🌟Backend🌟</h4> 
