@@ -3,15 +3,24 @@
   ### Hello, I'm Minsol Kim😊
 <img align="right" width="70" src="https://github.com/user-attachments/assets/fe4345f6-861e-4a57-b2b7-ed33a047e766" />
 
-</a><a href="https://velog.io/@minsol/posts"><img src="https://img.shields.io/badge/minsol.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> <a href="https://github.com/soli-ziyo/soli-ziyo"><img src="https://img.shields.io/badge/ReadMe-735998?style=badge&logo=GitHub&logoColor=white"/></a> 
-<a href="https://www.linkedin.com/in/vivi-kim">
-  <img src="https://img.shields.io/badge/-LinkedIn-92a8d1?logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/vivi-kim" alt="LinkedIn Badge">
-<a href="mailto:iamsol0128@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-92a8d1?logo=Gmail&logoColor=white&link=https://www.linkedin.com/in/vivi-kim" alt="LinkedIn Badge">
-</br>
-</a>
-<a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/soli-ziyo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%234A6A8B&title=🖐️hits&edge_flat=false" alt="Hits Badge">
+<div align="center">
+  <a href="https://velog.io/@minsol/posts">
+    <img src="https://img.shields.io/badge/minsol.log-%230077B5?style=badge&logo=Velog&logoColor=white" alt="minsol.log Badge">
+  </a> 
+
+  <a href="https://github.com/soli-ziyo/soli-ziyo">
+    <img src="https://img.shields.io/badge/Github-%23000000?style=badge&logo=GitHub&logoColor=white" alt="GitHub Badge">
+  </a> 
+
+  <a href="mailto:iamsol0128@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D93025?logo=Gmail&logoColor=white" alt="Gmail Badge">
+  </a> 
+
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/soli-ziyo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%234A6A8B&title=🖐️hits&edge_flat=false" alt="Hits Badge">
+  </a>
+</div>
+
   
   ---
 
@@ -54,15 +63,12 @@ Here are some ideas to get you started:
   
 </div>
 
-<br>
 
 <h3>👩‍💻Tools 👩‍💻</h3>
 <div>
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-<br />
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 <br />
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
@@ -73,12 +79,7 @@ Here are some ideas to get you started:
 
 </div>
 
-<h3>📫 Contact 📫</h3>
-<a href="https://velog.io/@minsol/posts">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
-  </a> 
-<a href="mailto:solac@ewha.ac.kr" style="text-transform: lowercase; text-decoration: none;">
-    <img src="https://img.shields.io/badge/solac@ewha.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<br>
 
 
 <div align="center">
